@@ -1,2 +1,2 @@
-# Hackathon_dss
-This Repository consists of all the Hackathon files I've participated in and submitted. 
+# Hackathon files
+This Repository consists of some of the Hackathon files I've participated in and submitted. 
